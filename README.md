@@ -12,6 +12,15 @@ This repository is organised with the following folders:
 
 The notebooks at the root of the repository contain most of the analysis presented in the thesis report. We also provide a PDF version of the thesis report.
 
+## Environment
+
+Conda environment is provided. To set it up, please use:
+
+```Shell
+conda env install -f environment.yml
+conda activate master-thesis
+```
+
 ## Data availability
 
 For data privacy reasons, the survey data is not published with the repository. Some external, public data sources are provided in a pre-processed format.
