@@ -1,7 +1,7 @@
 # Human behaviour and infectious diseases
 ## Using demographically representative survey data as a predictor for the progression of infectious disease outbreaks
 
-This repository contains the code related to my MSc thesis.
+This repository contains the code related to my MSc thesis. While the figures between the notebooks in this repository and the thesis may not exactly match, the code used to generate them remains the same.
 
 ## Organisation
 
@@ -11,7 +11,7 @@ This repository is organised with the following folders:
  * `src` contains some useful Python functions shared by multiple analyis notebooks
  * `stan` contains the code necessary to run the hierarchical bayesian model used to model the effective reproduction number
 
-The notebooks at the root of the repository contain most of the analysis presented in the thesis report. We also provide a PDF version of the thesis report.
+The notebooks at the root of the repository contain most of the analysis presented in the thesis report. We also provide a PDF version of the thesis report. The notebook `Extended HOPE data exploration` contains some additional exploratory analysis of the survey, in a more draft-y format.
 
 ## Environment
 
