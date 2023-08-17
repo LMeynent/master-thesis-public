@@ -163,5 +163,6 @@ cython_debug/
 .DS_Store
 
 # Data files
+hope_data/EWS_0326_klar.dta
 hope_data/EWS_0326_klar.parquet
 stan/230710_1605_combined_mcmc_stan.netcdf
